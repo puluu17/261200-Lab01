@@ -36,6 +36,7 @@ public class Main {
         bob.setDirection(270);
         bob.stamp();
 
+
         // Hide the turtle cursor when finished
         bob.hide();
     }
